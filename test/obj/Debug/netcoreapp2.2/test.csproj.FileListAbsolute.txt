@@ -1,0 +1,17 @@
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/test.deps.json
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/test.runtimeconfig.json
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/test.runtimeconfig.dev.json
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/test.dll
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/test.pdb
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/obj/Debug/netcoreapp2.2/test.csprojAssemblyReference.cache
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/obj/Debug/netcoreapp2.2/test.csproj.CoreCompileInputs.cache
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/obj/Debug/netcoreapp2.2/test.AssemblyInfoInputs.cache
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/obj/Debug/netcoreapp2.2/test.AssemblyInfo.cs
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/obj/Debug/netcoreapp2.2/test.dll
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/obj/Debug/netcoreapp2.2/test.pdb
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/PayCertify.dll
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/bin/Debug/netcoreapp2.2/PayCertify.pdb
+/Users/paulopires/Code/paycertify/plugin/PayCertify.cs/test/obj/Debug/netcoreapp2.2/test.csproj.CopyComplete
